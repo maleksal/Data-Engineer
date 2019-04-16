@@ -60,7 +60,7 @@ for i in range(100):
 ## Result
 An output file ‘results.json’ with the results of the computation in the following JSON format. Each item in the Array list represents the result for a single repository.
 
-```json
+```python
 [
 {	'repository_url': 'https://github.com/tensorflow/tensorflow', 
 	'number of lines': 59234, 
