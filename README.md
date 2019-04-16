@@ -21,6 +21,9 @@ python process_data.py <repository path>
 Ex: process_data.py "../Desktop/myrepo"
 ```
 
+## Obtaining the data
+> A list of 100,000 repositories is provided [here](https://raw.githubusercontent.com/monikturing/turing-data-challenge/master/url_list.csv) . These repositories are around 2Mb and the primary language is python.
+
 ## Processing
 
 For each repository, our goal is to compute certa
