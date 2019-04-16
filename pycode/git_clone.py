@@ -29,4 +29,4 @@ def clone_repository(path="../Desktop", repositories_list="file.txt"):
 clone_dir = sys.argv[1]
 list_repos = sys.argv[2]
 
-clone_repository(clone_dir, list_repos)
+clone_repository(path=clone_dir, repositories_list=list_repos)
