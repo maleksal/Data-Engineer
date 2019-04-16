@@ -22,11 +22,10 @@ class ProcessData:
              number of lines': Ex: 5000'
              }
         """
-
         def walk(root, pattern='*'):
-
+            
             """ Generator for walking a directory tree."""
-
+            
             for root_, dirs, files in os.walk(root):
                 for file in files:
                     if fnmatch.fnmatch(file, pattern):
