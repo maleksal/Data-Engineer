@@ -1,0 +1,6 @@
+GitPython==2.1.11
+gitdb2==2.0.5
+pip==19.0.3
+setuptools==40.8.0	
+smmap2==.0.5
+tqdm==4.31.1	
