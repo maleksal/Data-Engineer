@@ -3,7 +3,7 @@
 ## Run Instructions
 * Clone the source repository from Github.
 ```git
-git clone https://github.com/maleksal/Data-Engineer/Data-Engineer.git
+git clone https://github.com/maleksal/Data-Engineer
 ```
 * install requirments.txt
 ```
